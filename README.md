@@ -32,4 +32,4 @@
 ![TNW3](https://img.shields.io/badge/Hibernate-000?style=for-the-badge&logo=Hibernate&logoColor=white)&nbsp;
 ![TNW3](https://img.shields.io/badge/json-000?style=for-the-badge&logo=json&logoColor=white)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=footer"/>
