@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8Fsize=35&center=true&vCenter=true&width=1000&lines=TT,+Clean+programmer+ts+Davi;こんにちは;なさい+おや!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api?username=LeviAckr&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=C0C0C0&text_color=696969&bg_color=000" alt="LeviAckr github stats" /> 
-  <img width="41%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviAckr&layout=compact&hide_border=true&title_color=C0C0C0&text_color=C0C0C0&bg_color=000" />
-</div>
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LeviAckr&bg_color=000000&color=C0C0C0&line=808080&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
