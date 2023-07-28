@@ -2,34 +2,37 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8Fsize=35&center=true&vCenter=true&width=1000&lines=hello,+my+name+is+Davi;Back-End+developer)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api?username=LeviAckr&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=C0C0C0&text_color=696969&bg_color=000" alt="LeviAckr github stats" /> 
-  <img width="41%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviAckr&layout=compact&hide_border=true&title_color=C0C0C0&text_color=C0C0C0&bg_color=000" />
-</div>
+-----
 
-
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leviackr&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leviackr&hide=Html&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leviackr&theme=dark) |
+| :-: | :-: | :-: |
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeviAckr&theme=black&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leviackr&theme=dark" alt="Detalhes do perfil do GitHub">
 </p>
 
 
-### 自分のスキル:
+
+-----
+
+
+
+### Skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)&nbsp;
-![Php](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)&nbsp; 
+![CSS](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby&logoColor=red)&nbsp;
+![TNW3](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=Hibernate&logoColor=white)&nbsp;
+![Php](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)&nbsp; 
 ![TNW](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; 
-![TNW2](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)&nbsp; 
+![TNW2](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongoDB&logoColor=white)&nbsp; 
 ![TNW3](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)&nbsp; 
-![TNW3](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![TNW3](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![TNW3](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=#E57324)&nbsp;
-![TNW3](https://img.shields.io/badge/Arch_Linux-000?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;
-![TNW3](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
-![TNW3](https://img.shields.io/badge/HackTheBox-000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)&nbsp;
-![TNW3](https://img.shields.io/badge/Hibernate-000?style=for-the-badge&logo=Hibernate&logoColor=white)&nbsp;
+![TNW3](https://img.shields.io/badge/GO-000?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![TNW3](https://img.shields.io/badge/node-000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)&nbsp;
 ![TNW3](https://img.shields.io/badge/json-000?style=for-the-badge&logo=json&logoColor=white)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=footer"/> 
+## Contact ##
 
+[![https://twitter.com/davvzin](https://img.shields.io/badge/Davvzin-333?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davvzin)
+[![https://www.linkedin.com/in/davi-machado-16736a1b1/](https://img.shields.io/badge/Davi-333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-machado-16736a1b1/)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=footer"/> 
