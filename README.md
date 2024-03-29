@@ -4,8 +4,14 @@
 
 -----
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davijosemach&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leviackr&hide=Html&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davijosemach&theme=dark) |
-| :-: | :-: | :-: |
+
+<center>
+ 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davijosemach&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leviackr&hide=Html&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davijosemach&theme=dark) 
+
+
+</center>
+
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davijosemach&theme=dark" alt="Detalhes do perfil do GitHub">
