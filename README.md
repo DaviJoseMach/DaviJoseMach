@@ -29,13 +29,16 @@
 ![React.js](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby&logoColor=red)&nbsp;
 ![TNW3](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=Hibernate&logoColor=white)&nbsp;
 ![Php](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)&nbsp; 
-![JavaScript](https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=csharp&labelColor=0D1117)
+![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
+![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp; 
 ![TNW](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; 
 ![TNW2](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongoDB&logoColor=white)&nbsp; 
 ![TNW3](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)&nbsp; 
 ![TNW3](https://img.shields.io/badge/GO-000?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![TNW3](https://img.shields.io/badge/node-000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)&nbsp;
 ![TNW3](https://img.shields.io/badge/json-000?style=for-the-badge&logo=json&logoColor=white)&nbsp;
+
 
 ## Contact ##
 
