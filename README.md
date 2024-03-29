@@ -22,12 +22,12 @@
 -----
 
 
-
 ### Skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby&logoColor=red)&nbsp;
 ![TNW3](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=Hibernate&logoColor=white)&nbsp;
+![TNW5](https://img.shields.io/badge/KOTLIN-000?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Php](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=csharp&labelColor=0D1117)
 ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
