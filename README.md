@@ -1,48 +1,71 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8Fsize=35&center=true&vCenter=true&width=1000&lines=hello,+my+name+is+Davi;Back-End+developer)](https://git.io/typing-svg)
+###
 
------
+<p align="left">I'm Davi, a Computer Technician, Software Engineer, and Prompt Engineer. Enthusiastic about Cybersecurity. Working with Back-end Development and DevOps.</p>
 
+###
 
-<center>
- 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎‎ ‎![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davijosemach&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leviackr&hide=Html&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davijosemach&theme=dark) 
+<h2 align="left">About me</h2>
 
+###
 
-</center>
+<p align="left">🌍 Working for startups in the 🇺🇸 and 🇵🇹<br>📚 Reader and writer of tech articles</p>
 
+###
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davijosemach&theme=dark" alt="Detalhes do perfil do GitHub">
-</p>
+<h2 align="left">Techs and tools</h2>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
 
------
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
 
-### Skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby&logoColor=red)&nbsp;
-![TNW3](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=Hibernate&logoColor=white)&nbsp;
-![TNW5](https://img.shields.io/badge/KOTLIN-000?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![Php](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)&nbsp; 
-![JavaScript](https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=csharp&labelColor=0D1117)
-![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
-![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp; 
-![TNW](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; 
-![TNW2](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongoDB&logoColor=white)&nbsp; 
-![TNW3](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)&nbsp; 
-![TNW3](https://img.shields.io/badge/GO-000?style=for-the-badge&logo=go&logoColor=white)&nbsp;
-![TNW3](https://img.shields.io/badge/node-000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)&nbsp;
-![TNW3](https://img.shields.io/badge/json-000?style=for-the-badge&logo=json&logoColor=white)&nbsp;
+###
 
+<h2 align="left">Contact</h2>
 
-## Contact ##
+###
 
-[![https://twitter.com/davvzin](https://img.shields.io/badge/Davvzin-333?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davvzin)
-[![https://www.linkedin.com/in/davi-machado-16736a1b1/](https://img.shields.io/badge/Davi-333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-machado-16736a1b1/)
+<div align="left">
+  <a href="https://www.linkedin.com/in/davi-machado-16736a1b1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/davvzin" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=footer"/> 
+###
+---
+![](https://github-readme-stats.vercel.app/api?username=DaviJoseMach&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviJoseMach&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
