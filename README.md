@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌍 Working for startups in the United States and Portugual <br>📚 Reader and writer of tech articles</p>
+<p align="left">🌍 Working for startups in the United States and Portugal <br>📚 Reader and writer of tech articles</p>
 
 ###
 
