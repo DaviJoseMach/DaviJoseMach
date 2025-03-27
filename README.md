@@ -55,21 +55,6 @@
 </div>
 
 ###
-
-<h2 align="left">Contact</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/davi-j-16736a1b1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/davvzin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-###
 ---
 ![](https://github-readme-stats.vercel.app/api?username=DaviJoseMach&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviJoseMach&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
