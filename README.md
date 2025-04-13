@@ -1,8 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
-<p align="left">I'm Davi, a Computer Technician, Software Engineer, and Prompt Engineer. Enthusiastic about Cybersecurity. Working with Back-end Development and DevOps.</p>
+<p align="left">I'm Davi, a Software Engineer and Back-end Developer working at Mercado Livre as an AI-Powered Tracking Data Analyst. I'm passionate about DevOps, Artificial Intelligence, Cybersecurity, and setup aesthetics.</p>
 
 ###
 
@@ -55,6 +54,14 @@
 </div>
 
 ###
----
-![](https://github-readme-stats.vercel.app/api?username=DaviJoseMach&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviJoseMach&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<h2 align="left">Languages</h2>
+
+###
+
+<p align="left">🇧🇷  🇺🇸 🇪🇸 🇫🇷 🇯🇵 </p>
+
+
+###
+
 
