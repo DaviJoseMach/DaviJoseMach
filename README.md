@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🌍 Working for startups in the United States and Portugal <br>📚 Reader and writer of tech articles</p>
+<p align="left">🌍 Working for startups in the United States and Portugal as an External Specialist and BackEnd Engineer | And in the logistics sector in Brazil <br>📚 Reader and writer of tech articles</p>
 
 ###
 
