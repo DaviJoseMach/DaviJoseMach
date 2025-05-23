@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<p align="left">I'm Davi, a Software Engineer and Back-end Developer working at Mercado Livre as an AI-Powered Tracking Data Analyst. I'm passionate about DevOps, Artificial Intelligence, Cybersecurity, and setup aesthetics.</p>
+<p align="left">I'm Davi, a Software Engineer and Back-end Developer working at logistics sector as an AI-Powered Tracking Data Analyst. I'm passionate about DevOps, Artificial Intelligence, books, servers and cloud.</p>
 
 ###
 
